@@ -6,5 +6,8 @@
   "volta": {
     "node": "16.13.1",
     "yarn": "1.22.5"
+  },
+  "dependencies": {
+    "benchmark": "^2.1.4"
   }
 }
