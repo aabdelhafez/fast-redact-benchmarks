@@ -8,6 +8,7 @@
     "yarn": "1.22.5"
   },
   "dependencies": {
-    "benchmark": "^2.1.4"
+    "benchmark": "^2.1.4",
+    "fast-redact": "^3.0.2"
   }
 }
